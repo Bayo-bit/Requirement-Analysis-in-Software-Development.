@@ -1,25 +1,32 @@
 # Requirement-Analysis-in-Software-Development.
-📌Requirement Analysis in Software Development
+📌 Introduction
+This repository provides a structured documentation of the Requirement Analysis phase for a Booking Management System project. It serves as a foundational step in the Software Development Lifecycle (SDLC), showcasing how system requirements are gathered, analyzed, modeled, and validated before development begins.
 
-Introduction:
-This repository documents the Requirement Analysis phase for a Booking Management System project. It serves as a structured reference that demonstrates how software requirements are gathered, analyzed, modeled, and validated within the Software Development Lifecycle (SDLC).
+The goal of this repository is to create a clear, organized, and traceable reference that demonstrates best practices in requirement documentation. Each task within this phase will contribute to understanding how requirements evolve from initial ideas into detailed system specifications.
 
 ---
 
-🧠 What is Requirement Analysis?
+What is Requirement Analysis?
 
-Requirement Analysis is the strategic process of discovering, documenting, and refining what a software system must accomplish. It transforms stakeholder needs into actionable and understandable requirements for designers and engineers.
+Requirement Analysis is the process of identifying, understanding, documenting, and validating what a software system must do to meet user and business needs. It helps teams clearly define what the software should achieve before the development stage begins.
 
-This stage promotes a shared vision among the team and serves as the blueprint for meaningful, efficient development.
+This process involves working closely with stakeholders to gather information about goals, functions, and constraints. The outcomes are written requirements, diagrams, and models that guide the design and implementation phases.
 
-⭐ Why is Requirement Analysis Important?
+🔍 Importance in the Software Development Lifecycle (SDLC)
 
-Requirement Analysis is crucial in the Software Development Lifecycle because:
+Requirement Analysis is a critical step in building successful software because it:
 
-• It eliminates ambiguity, giving everyone a clear picture of the system’s goals
-• It reduces costly mistakes, catching issues early before development begins
-• It ** improves collaboration**, ensuring alignment between users, clients, and developers
-• It boosts product quality, shaping a solution that truly solves user problems
+Ensures a shared understanding between clients, users, and developers.
+
+Supports better project planning and accurate effort estimation.
+
+Reduces conflicts and misunderstandings during later stages.
+
+Provides a blueprint for system design, development, and testing.
+
+Increases the likelihood of delivering a product that meets real needs.
+
+---
 
 🔍 Key Activities in Requirement Analysis
 
@@ -38,12 +45,12 @@ Exploring and uncovering actual needs, expectations, and hidden requirements thr
 Organizing requirements into clear, structured artifacts such as SRS documents, user stories, and system diagrams.
 
 • Requirement Analysis and Modeling
-
 Reviewing and refining requirements while visualizing the system using tools like use case diagrams or flowcharts.
 
 • Requirement Validation
-
 Confirming that requirements are correct, complete, and truly aligned with business goals.
+
+---
 
 🧩 Types of Requirements
 
@@ -73,6 +80,8 @@ Examples for the Booking Management System:
 • System must support high availability during peak booking periods
 • Users should be able to access the system on both mobile and desktop
 
+---
+
 🎭 Use Case Diagrams
 
 Use Case Diagrams visually show how actors interact with the system. They help teams understand user goals and clarify system boundaries early in development.
@@ -100,3 +109,41 @@ Use Cases
 • Make payment
 • View booking history
 • Confirm booking
+
+---
+
+Acceptance Criteria
+
+Acceptance Criteria define the specific conditions that must be met for a feature or requirement to be considered complete, functional, and acceptable to stakeholders. They act as a clear checklist that guides development, testing, and validation — making sure the delivered feature meets user expectations and business goals.
+
+🔍 Importance in Requirement Analysis
+
+During Requirement Analysis, Acceptance Criteria help teams:
+
+Clearly understand what “done” means for each feature.
+
+Ensure alignment between stakeholders, developers, and testers.
+
+Support test case creation and quality validation.
+
+Reduce misunderstandings and rework during development.
+
+Improve overall user satisfaction by ensuring features behave as expected.
+
+By defining Acceptance Criteria early, the team ensures that every feature is measurable, testable, and traceable back to user needs.
+
+💡 Example: Checkout Feature (Booking Management System)
+
+The Checkout feature is considered complete when all the following conditions are met:
+
+User can review booking details before making payment.
+
+System provides secure payment options (e.g., card, wallet, transfer).
+
+Successful payment automatically creates a confirmed booking record.
+
+Failed payment does not create a booking, and an error message is displayed.
+
+A success confirmation message appears instantly after payment.
+
+User receives a booking confirmation notification or email.
