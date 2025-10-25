@@ -42,7 +42,7 @@ Confirming that requirements are correct, complete, and truly aligned with busin
 
 ---
 
-## 🧩 Types of Requirement
+## 🧩 Types of Requirements
 Software requirements are categorized into two major types that work together to shape how a system behaves and performs.
 
 ### ✅ Functional Requirements
