@@ -1,7 +1,10 @@
 # Requirement-Analysis-in-Software-Development.
-📌 Requirement Analysis in Software Development
+📌Requirement Analysis in Software Development
 
-Welcome to the Requirement Analysis Documentation for a Booking Management System. This repository demonstrates how software ideas evolve into a well-structured plan before development ever begins. Clear requirements guide successful projects, prevent confusion, and ensure everyone builds the right thing for the right users.
+Introduction:
+This repository documents the Requirement Analysis phase for a Booking Management System project. It serves as a structured reference that demonstrates how software requirements are gathered, analyzed, modeled, and validated within the Software Development Lifecycle (SDLC).
+
+---
 
 🧠 What is Requirement Analysis?
 
@@ -41,3 +44,59 @@ Reviewing and refining requirements while visualizing the system using tools lik
 • Requirement Validation
 
 Confirming that requirements are correct, complete, and truly aligned with business goals.
+
+🧩 Types of Requirements
+
+Software requirements are categorized into two major types that work together to shape how a system behaves and performs.
+
+✅ Functional Requirements
+
+These describe what the system should do. They define specific features, operations, and behaviors of the software to support user goals.
+
+Examples for the Booking Management System:
+
+• Users can search for available rooms or services
+• Customers can create a booking and receive confirmation
+• Admin can approve, modify, or cancel bookings
+• System should store and retrieve booking history
+• Payment processing must record successful transactions
+
+✅ Non-Functional Requirements
+
+These define how the system should perform. They focus on quality attributes such as speed, security, and usability.
+
+Examples for the Booking Management System:
+
+• System should load pages within 3 seconds for optimal user experience
+• Booking data must be securely stored and protected from unauthorized access
+• The interface should be easy to navigate for all customer types
+• System must support high availability during peak booking periods
+• Users should be able to access the system on both mobile and desktop
+
+🎭 Use Case Diagrams
+
+Use Case Diagrams visually show how actors interact with the system. They help teams understand user goals and clarify system boundaries early in development.
+
+Benefits of Use Case Diagrams
+
+• Provide clear communication between stakeholders and developers
+• Reveal required system interactions and missing features
+• Help identify actors, user goals, and dependencies
+• Support better planning and validation of requirements
+
+📌 Booking Management System Use Case Diagram
+
+Actors and primary use cases include:
+
+Actors
+• Customer
+• Admin
+• Payment Service
+
+Use Cases
+• Search bookings
+• Create booking
+• Manage booking (edit/cancel)
+• Make payment
+• View booking history
+• Confirm booking
