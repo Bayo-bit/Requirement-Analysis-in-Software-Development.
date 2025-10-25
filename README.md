@@ -1,4 +1,4 @@
-# Requirement-Analysis-in-Software-Development.
+# Requirement Analysis.
 📌 **Introduction**
 
 This repository provides a structured documentation of the Requirement Analysis phase for a Booking Management System project. It serves as a foundational step in the Software Development Lifecycle (SDLC), showcasing how system requirements are gathered, analyzed, modeled, and validated before development begins.
