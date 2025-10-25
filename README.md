@@ -117,7 +117,7 @@ Actors and primary use cases include:
 
 Acceptance Criteria define the specific conditions that must be met for a feature or requirement to be considered complete, functional, and acceptable to stakeholders. They act as a clear checklist that guides development, testing, and validation — making sure the delivered feature meets user expectations and business goals.
 
-🔍 **Importance in Requirement Analysis**
+🔍 **Why is Requirement Analysis Important?**
 
 During Requirement Analysis, Acceptance Criteria help teams:
 
